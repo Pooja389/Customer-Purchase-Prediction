@@ -24,8 +24,8 @@ A machine learning project that analyzes audiobook sales data and predicts wheth
 - Confusion matrix on test data
 
 ## 🚀 How to Run
-download the audiobook_data.csv from repository
-Open the notebook and run all cells from top to bottom.
+- download the audiobook_data.csv from repository
+- Open the notebook and run all cells from top to bottom.
 
 ## 📌 Outcome
 The model successfully predicts whether a user is likely to buy an audiobook based on historical data.
